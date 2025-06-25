@@ -4,7 +4,7 @@ This is the database management project done by group of 4 students of Dhirubhai
 We have designed and integrated a comprehensive database management system of an online streaming platform which
 we have named 'CosmoFlix11'. 
 We have implemented it from the scratch, starting from base idea, entity-relationship diagram, relational schema 
-to final database, user defined functions and triggers.
+to final database and user defined functions.
 PostgreSQL and PL/pgSQL is used to implement this entire backend of the database.
 
 Our database provides the content to users, handles subscriptions, process the data and updates the analytics, 
