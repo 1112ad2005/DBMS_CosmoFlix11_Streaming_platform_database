@@ -1,0 +1,1179 @@
+INSERT INTO Users VALUES ('U001', 'pass123', 'Alice Smith', 'alice.smith@email.com', 28, 'F', '1234567890', 'premium', 'English', 'USA'),
+ ('U002', 'qwerty89', 'Bob Johnson', 'bobj@email.com', 35, 'M', '2345678901', 'nonpremium', 'Spanish', 'Canada'),
+ ('U003', 'helloWorld', 'Charlie Lee', 'charlie.lee@email.com', 22, 'M', '3456789012', 'premium', 'Korean', 'South Korea'),
+ ('U004', 'testPass', 'Diana Patel', 'diana.p@email.com', 30, 'F', '4567890123', 'premium', 'Hindi', 'India'),
+ ('U005', 'abc@123', 'Ethan Wright', 'ethan.w@email.com', 27, 'M', '5678901234', 'nonpremium', 'English', 'UK'),
+ ('U006', 'password6', 'Fiona Zhang', 'fiona.z@email.com', 31, 'F', '6789012345', 'nonpremium', 'Chinese', 'China'),
+('U007', 'mypwd007', 'George Brown', 'george.b@email.com', 24, 'M', '7890123456', 'premium', 'English', 'USA'),
+ ('U008', 'sunshine', 'Hannah Kim', 'hannah.k@email.com', 29, 'F', '8901234567', 'premium', 'Korean', 'South Korea'),
+ ('U009', 'secret09', 'Ian Thomas', 'ian.t@email.com', 33, 'M', '9012345678', 'nonpremium', 'French', 'France'),
+('U010', 'blueSky', 'Julia Lopez', 'julia.l@email.com', 26, 'F', '0123456789', 'premium', 'Spanish', 'Mexico'),
+ ('U011', 'redPass', 'Kevin Singh', 'kevin.s@email.com', 21, 'M', '1123456789', 'nonpremium', 'Hindi', 'India'),
+ ('U012', 'magic12', 'Laura Chen', 'laura.c@email.com', 34, 'F', '2123456789', 'premium', 'Chinese', 'Singapore'),
+ ('U013', 'ocean13', 'Michael Jordan', 'mj23@email.com', 40, 'M', '3123456789', 'nonpremium', 'English', 'USA'),
+ ('U014', 'secure14', 'Natalie Brown', 'natalie.b@email.com', 25, 'F', '4123456789', 'premium', 'German', 'Germany'),
+ ('U015', 'techie15', 'Oscar Ruiz', 'oscar.r@email.com', 29, 'M', '5123456789', 'nonpremium', 'Portuguese', 'Brazil'),
+ ('U016', 'delta16', 'Priya Desai', 'priya.d@email.com', 32, 'F', '6123456789', 'premium', 'Hindi', 'India'),
+ ('U017', 'green17', 'Quentin Blake', 'quentin.b@email.com', 27, 'M', '7123456789', 'nonpremium', 'English', 'UK'),
+('U018', 'river18', 'Rina Tanaka', 'rina.t@email.com', 24, 'F', '8123456789', 'premium', 'Japanese', 'Japan'),
+('U019', 'moonlight', 'Samuel Park', 'samuel.p@email.com', 36, 'M', '9123456789', 'premium', 'Korean', 'South Korea'),
+('U020', 'shadow20', 'Tanya Ivanova', 'tanya.i@email.com', 30, 'F', '0223456789', 'nonpremium', 'Russian', 'Russia'),
+ ('U021', 'firefly', 'Usman Khan', 'usman.k@email.com', 28, 'M', '1223456789', 'premium', 'Urdu', 'Pakistan'),
+('U022', 'storm22', 'Valerie Dupont', 'valerie.d@email.com', 33, 'F', '2223456789', 'nonpremium', 'French', 'France'),
+ ('U023', 'iceberg23', 'William Chen', 'william.c@email.com', 26, 'M', '3223456789', 'premium', 'Chinese', 'Taiwan'),
+ ('U024', 'forest24', 'Xinyi Liu', 'xinyi.l@email.com', 29, 'F', '4223456789', 'premium', 'Chinese', 'China'),
+ ('U025', 'eagle25', 'Youssef Nassar', 'youssef.n@email.com', 31, 'M', '5223456789', 'nonpremium', 'Arabic', 'Egypt'),
+ ('U026', 'peach26', 'Zara Ahmed', 'zara.a@email.com', 23, 'F', '6223456789', 'premium', 'Urdu', 'Pakistan'),
+('U027', 'lava27', 'Ahmed Ali', 'ahmed.a@email.com', 34, 'M', '7223456789', 'premium', 'Arabic', 'UAE'),
+('U028', 'crystal28', 'Bianca Rossi', 'bianca.r@email.com', 28, 'F', '8223456789', 'nonpremium', 'Italian', 'Italy'),
+ ('U029', 'jungle29', 'Carlos Diaz', 'carlos.d@email.com', 35, 'M', '9223456789', 'nonpremium', 'Spanish', 'Argentina'),
+ ('U030', 'matrix30', 'Dana Müller', 'dana.m@email.com', 27, 'F', '0323456789', 'premium', 'German', 'Germany'),
+('U031', 'zenith31', 'Elena Petrova', 'elena.p@email.com', 30, 'F', '1323456789', 'premium', 'Russian', 'Russia'),
+('U032', 'alpha32', 'Farhan Malik', 'farhan.m@email.com', 25, 'M', '1423456789', 'nonpremium', 'Urdu', 'Pakistan'),
+ ('U033', 'nova33', 'Grace Lee', 'grace.l@email.com', 29, 'F', '1523456789', 'premium', 'Korean', 'South Korea'),
+ ('U034', 'echo34', 'Hassan Al-Sayed', 'hassan.a@email.com', 33, 'M', '1623456789', 'nonpremium', 'Arabic', 'Saudi Arabia'),
+ ('U035', 'skyline35', 'Isabella Romano', 'isabella.r@email.com', 28, 'F', '1723456789', 'premium', 'Italian', 'Italy'),
+ ('U036', 'pixel36', 'Jack Wilson', 'jack.w@email.com', 31, 'M', '1823456789', 'nonpremium', 'English', 'USA'),
+ ('U037', 'orbit37', 'Kavita Reddy', 'kavita.r@email.com', 26, 'F', '1923456789', 'premium', 'Hindi', 'India'),
+ ('U038', 'zebra38', 'Luis Herrera', 'luis.h@email.com', 27, 'M', '2023456789', 'nonpremium', 'Spanish', 'Mexico'),
+ ('U039', 'flame39', 'Mei Huang', 'mei.h@email.com', 34, 'F', '2123456790', 'premium', 'Chinese', 'China'),
+ ('U040', 'storm40', 'Nico Weber', 'nico.w@email.com', 35, 'M', '2223456790', 'nonpremium', 'German', 'Germany'),
+ ('U041', 'tempo41', 'Olivia Martin', 'olivia.m@email.com', 24, 'F', '2323456790', 'premium', 'French', 'France'),
+ ('U042', 'lunar42', 'Pedro Alvarez', 'pedro.a@email.com', 30, 'M', '2423456790', 'nonpremium', 'Portuguese', 'Brazil'),
+ ('U043', 'terra43', 'Qi Wang', 'qi.w@email.com', 32, 'F', '2523456790', 'premium', 'Chinese', 'Singapore'),
+ ('U044', 'sierra44', 'Rohan Mehta', 'rohan.m@email.com', 29, 'M', '2623456790', 'premium', 'Hindi', 'India'),
+ ('U045', 'daisy45', 'Sofia Costa', 'sofia.c@email.com', 27, 'F', '2723456790', 'nonpremium', 'Portuguese', 'Portugal'),
+ ('U046', 'quartz46', 'Tarek El-Masry', 'tarek.e@email.com', 36, 'M', '2823456790', 'premium', 'Arabic', 'Egypt'),
+ ('U047', 'vortex47', 'Uma Narayan', 'uma.n@email.com', 31, 'F', '2923456790', 'nonpremium', 'Hindi', 'India'),
+('U048', 'jigsaw48', 'Victor Hugo', 'victor.h@email.com', 38, 'M', '3023456790', 'premium', 'French', 'France'),
+ ('U049', 'delta49', 'Wendy Nguyen', 'wendy.n@email.com', 26, 'F', '3123456790', 'nonpremium', 'Vietnamese', 'Vietnam'),
+ ('U050', 'onyx50', 'Xander Zhang', 'xander.z@email.com', 34, 'M', '3223456790', 'premium', 'Chinese', 'China'),
+ ('U051', 'bliss51', 'Yara Hussein', 'yara.h@email.com', 28, 'F', '3323456790', 'nonpremium', 'Arabic', 'UAE'),
+ ('U052', 'prime52', 'Zane Taylor', 'zane.t@email.com', 25, 'M', '3423456790', 'premium', 'English', 'Australia'),
+ ('U053', 'raven53', 'Aisha Yusuf', 'aisha.y@email.com', 33, 'F', '3523456790', 'premium', 'Swahili', 'Kenya'),
+ ('U054', 'neon54', 'Bruno Santos', 'bruno.s@email.com', 30, 'M', '3623456790', 'nonpremium', 'Portuguese', 'Brazil'),
+ ('U055', 'arctic55', 'Chloe Dubois', 'chloe.d@email.com', 27, 'F', '3723456790', 'premium', 'French', 'Canada'),
+ ('U056', 'pulse56', 'Dmitri Ivanov', 'dmitri.i@email.com', 35, 'M', '3823456790', 'nonpremium', 'Russian', 'Russia'),
+ ('U057', 'karma57', 'Emily Clark', 'emily.c@email.com', 22, 'F', '3923456790', 'premium', 'English', 'USA'),
+ ('U058', 'vivid58', 'Felipe Morales', 'felipe.m@email.com', 31, 'M', '4023456790', 'nonpremium', 'Spanish', 'Colombia'),
+ ('U059', 'orbit59', 'Gina Park', 'gina.p@email.com', 29, 'F', '4123456790', 'premium', 'Korean', 'South Korea'),
+ ('U060', 'oasis60', 'Henry Adams', 'henry.a@email.com', 26, 'M', '4223456790', 'nonpremium', 'English', 'USA');
+
+INSERT INTO Company VALUES ('C001', 'Streamify Inc.', 'contact@streamify.com', 'stream123', 'USA', '1234567890', 'Streaming Platform', 'Mark Allen', '9876543210', 'mark.allen@streamify.com', 'Director of Partnerships');
+INSERT INTO Company VALUES ('C002', 'TuneWave Ltd.', 'support@tunewave.com', 'tune@456', 'UK', '2345678901', 'Music Streaming', 'Sophie Turner', '8765432109', 'sophie@tunewave.com', 'Business Development Manager');
+INSERT INTO Company VALUES ('C003', 'VibeVision', 'info@vibevision.tv', 'vibe321', 'Canada', '3456789012', 'OTT Platform', 'Liam Johnson', '7654321098', 'liam.j@vibevision.tv', 'Media Relations Lead');
+INSERT INTO Company VALUES ('C004', 'PlayMore Co.', 'contact@playmore.com', 'playme77', 'India', '4567890123', 'Gaming Studio', 'Anjali Mehta', '6543210987', 'anjali.m@playmore.com', 'Head of Partnerships');
+INSERT INTO Company VALUES ('C005', 'ChillCast', 'hello@chillcast.com', 'chill!234', 'USA', '5678901234', 'Podcast Network', 'Chris Evans', '5432109876', 'cevans@chillcast.com', 'Content Manager');
+INSERT INTO Company VALUES ('C006', 'GlobalFlix', 'team@globalflix.com', 'flixworld', 'Germany', '6789012345', 'Streaming Service', 'Anna Bauer', '4321098765', 'anna.b@globalflix.com', 'Partner Manager');
+INSERT INTO Company VALUES ('C007', 'MegaTunes', 'info@megatunes.org', 'mega789', 'Brazil', '7890123456', 'Music Platform', 'Pedro Lima', '3210987654', 'pedro@megatunes.org', 'Head of Content');
+INSERT INTO Company VALUES ('C008', 'SkyWatch', 'sky@watchstream.com', 'skyhigh88', 'Australia', '8901234567', 'Video Surveillance', 'Olivia White', '2109876543', 'olivia.w@skywatch.com', 'Tech Director');
+INSERT INTO Company VALUES ('C009', 'PixelPlay', 'support@pixelplay.com', 'pixel321', 'Japan', '9012345678', 'Game Publisher', 'Kenji Sato', '1098765432', 'kenji@pixelplay.com', 'Japan Lead');
+INSERT INTO Company VALUES ('C010', 'EchoSound', 'contact@echosound.net', 'echoecho', 'South Korea', '0123456789', 'Audio Tech Company', 'Yuna Kim', '9988776655', 'yuna.k@echosound.net', 'Product Lead');
+INSERT INTO Company VALUES ('C011', 'NovaStream', 'info@novastream.com', 'nova123', 'France', '1122334455', 'Streaming Platform', 'Julien Dubois', '8877665544', 'julien.d@novastream.com', 'Sales Manager');
+INSERT INTO Company VALUES ('C012', 'BoomBox', 'hello@boombox.com', 'boomb123', 'Mexico', '6677889900', 'Podcast App', 'Carla Reyes', '7766554433', 'carla@boombox.com', 'Community Lead');
+INSERT INTO Company VALUES ('C013', 'WaveNet', 'contact@wavenet.tech', 'wave@987', 'Singapore', '5566778899', 'Tech Platform', 'Ravi Nair', '6655443322', 'ravi.n@wavenet.tech', 'Lead Engineer');
+INSERT INTO Company VALUES ('C014', 'VisionCast', 'info@visioncast.tv', 'vision456', 'Italy', '4455667788', 'Film Studio', 'Giulia Romano', '5544332211', 'giulia.r@visioncast.tv', 'Studio Director');
+INSERT INTO Company VALUES ('C015', 'StreamNest', 'support@streamnest.io', 'nestnest', 'Netherlands', '3344556677', 'Streaming Aggregator', 'Daan van Dijk', '4433221100', 'daan@streamnest.io', 'Content Acquisitions Head');
+
+INSERT INTO Contents VALUES ('CT001', 'PG', 'C001', 'The Streamers');
+INSERT INTO Contents VALUES ('CT002', 'U', 'C001', 'Ocean Beats');
+INSERT INTO Contents VALUES ('CT003', 'PG13', 'C002', 'Rock On');
+INSERT INTO Contents VALUES ('CT004', 'R', 'C002', 'Dark Vibes');
+INSERT INTO Contents VALUES ('CT005', 'U', 'C003', 'Sunny Days');
+INSERT INTO Contents VALUES ('CT006', 'PG', 'C003', 'Life In Motion');
+INSERT INTO Contents VALUES ('CT007', 'PG13', 'C004', 'Game Zone');
+INSERT INTO Contents VALUES ('CT008', 'U', 'C004', 'Puzzle Palace');
+INSERT INTO Contents VALUES ('CT009', 'PG', 'C005', 'Talk Loud');
+INSERT INTO Contents VALUES ('CT010', 'PG13', 'C005', 'Mind Matters');
+INSERT INTO Contents VALUES ('CT011', 'U', 'C006', 'Global Tales');
+INSERT INTO Contents VALUES ('CT012', 'PG', 'C006', 'SciWorld');
+INSERT INTO Contents VALUES ('CT013', 'R', 'C007', 'The Drop');
+INSERT INTO Contents VALUES ('CT014', 'PG13', 'C007', 'Bass Booster');
+INSERT INTO Contents VALUES ('CT015', 'U', 'C008', 'Sky Alert');
+INSERT INTO Contents VALUES ('CT016', 'PG', 'C008', 'Cloud Cast');
+INSERT INTO Contents VALUES ('CT017', 'PG13', 'C009', 'Pixel War');
+INSERT INTO Contents VALUES ('CT018', 'R', 'C009', 'Blade Shift');
+INSERT INTO Contents VALUES ('CT019', 'U', 'C010', 'Echo Kids');
+INSERT INTO Contents VALUES ('CT020', 'PG', 'C010', 'Silent Sound');
+INSERT INTO Contents VALUES ('CT021', 'PG13', 'C011', 'Stream Force');
+INSERT INTO Contents VALUES ('CT022', 'R', 'C011', 'Darkstream');
+INSERT INTO Contents VALUES ('CT023', 'U', 'C012', 'Chat Lounge');
+INSERT INTO Contents VALUES ('CT024', 'PG', 'C012', 'Voices Rising');
+INSERT INTO Contents VALUES ('CT025', 'PG13', 'C013', 'Signal Storm');
+INSERT INTO Contents VALUES ('CT026', 'U', 'C013', 'Wave Walkers');
+INSERT INTO Contents VALUES ('CT027', 'PG', 'C014', 'Vision Tales');
+INSERT INTO Contents VALUES ('CT028', 'R', 'C014', 'The Final Frame');
+INSERT INTO Contents VALUES ('CT029', 'PG13', 'C015', 'Nest Noir');
+INSERT INTO Contents VALUES ('CT030', 'U', 'C015', 'Streaming Smiles');
+INSERT INTO Contents VALUES ('CT031', 'PG13', 'C001', 'Byte Beats');
+INSERT INTO Contents VALUES ('CT032', 'PG', 'C002', 'Rhythm Run');
+INSERT INTO Contents VALUES ('CT033', 'R', 'C003', 'Echo Chamber');
+INSERT INTO Contents VALUES ('CT034', 'U', 'C004', 'Playhouse');
+INSERT INTO Contents VALUES ('CT035', 'PG', 'C005', 'Whispers');
+INSERT INTO Contents VALUES ('CT036', 'PG13', 'C006', 'The Flow');
+
+
+
+INSERT INTO SubContent VALUES 
+('EP001','2005-02-23','00:27:56',600,86,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'CT001','The Streamers episode1','Streamers union for a relality game show','Streamers.mp4',7.9,'Premium'),
+('EP002','2005-02-24','00:28:32',700,60,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'CT001','The Streamers episode2','Streamers form team','Streamers.mp4',8.4,'Premium'),
+('EP003','2005-02-25','00:31:43',1000,60,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'CT001','The Streamers episode3','The game show begins','Streamers.mp4',9.3,'Premium'),
+('EP004','2005-02-26','00:42:56',1300,40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'CT001','The Streamers episode4','The team switch','Streamers.mp4',9.4,'Premium'),
+('EP005','2005-02-28','01:29:26',1500,80,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'CT001','The Streamers episode5','Finale episode','Streamers.mp4',9.7,'Premium'),
+('MV001','2005-06-24','02:56:29',1800,200,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'CT002','Ocean beasts the movie','The deadly Sea monsters','Oceanbeasts.mp4',8.9,'NonPremium');
+INSERT INTO SubContent VALUES 
+('EP001', '2023-01-01', '00:25:00', 120, 5, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT003', 'Rocking Start', 'The journey begins', 'rock1.mp4', 8.3, 'NONPremium'),
+('EP002', '2023-01-08', '00:25:00', 130, 8, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT003', 'Rhythm Rise', 'Rhythmic revelations emerge', 'rock2.mp4', 8.5, 'NONPremium'),
+('EP003', '2023-01-15', '00:25:00', 140, 6, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT003', 'Beat Battles', 'Conflict escalates with rhythm', 'rock3.mp4', 8.1,'NONPremium'),
+('EP004', '2023-01-22', '00:25:00', 110, 10, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT003', 'Silent Strings', 'A calm before the storm', 'rock4.mp4', 8.4,'NONPremium'),
+('EP005', '2023-01-29', '00:25:00', 150, 7, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT003', 'Final Jam', 'The ultimate showdown', 'rock5.mp4', 8.7,'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001', '2023-02-01', '01:45:00', 300, 20, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT004', 'Dark Vibes Movie', 'A deep dive into darkness', 'darkvibes.mp4', 7.9,'NONPremium');
+INSERT INTO SubContent VALUES 
+('EP001', '2012-01-10', '00:22:00', 500, 20, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT005', 'A Bright Start', 'The sun rises over peaceful lands.', 'sunny1.mp4', 8.0,'Premium'),
+('EP002', '2012-01-17', '00:22:00', 530, 18, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT005', 'Chasing Light', 'Adventures in the golden daylight.', 'sunny2.mp4', 8.2,'Premium');
+INSERT INTO SubContent VALUES 
+('EP001', '2012-02-01', '00:28:00', 610, 25, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT006', 'New Beginnings', 'Movement begins with life.', 'life1.mp4', 8.4,'Premium'),
+('EP002', '2012-02-08', '00:28:00', 580, 30, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT006', 'Flow Forward', 'Every motion tells a story.', 'life2.mp4', 8.3,'Premium');
+INSERT INTO SubContent VALUES 
+('EP001', '2012-03-05', '00:30:00', 720, 40, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT007', 'Level Up', 'Entering the virtual realm.', 'game1.mp4', 8.6,'Premium'),
+('EP002', '2012-03-12', '00:30:00', 740, 38, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT007', 'Final Boss', 'The game takes a dark turn.', 'game2.mp4', 8.8,'Premium');
+
+
+INSERT INTO SubContent VALUES 
+('MV001', '2015-02-18', '01:45:00', 800, 50, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT008', 'The Masterpiece', 'A puzzle that unlocks ancient secrets.', 'puzzle_movie.mp4', 8.1,'Premium');
+INSERT INTO SubContent VALUES 
+('MV001', '2016-11-12', '02:00:00', 1100, 60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT009', 'Raise Your Voice', 'A journey of self-expression and rebellion.', 'talkloud_movie.mp4', 8.4,'Premium');
+INSERT INTO SubContent VALUES 
+('MV001', '2018-04-25', '01:55:00', 980, 70, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT010', 'Inside Logic', 'Where thoughts battle reality.', 'mindmatters_movie.mp4', 8.5,'Premium');
+INSERT INTO SubContent VALUES 
+('MV001', '2019-09-10', '01:40:00', 770, 40, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT011', 'Around the World', 'Stories from every corner of Earth.', 'globaltales_movie.mp4', 7.9,'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001','2020-06-15', '02:10:00', 890, 55, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT012', 'Beyond Reality', 'Exploring the future of science.', 'sciworld_movie.mp4', 8.2,'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001','2021-03-20', '02:05:00', 1050, 85, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT013', 'Point of Impact', 'A fall that changes the fate of humanity.', 'thedrop_movie.mp4', 8.7,'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001', '2021-06-15', '01:50:00', 1000, 40, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT014', 'Bass Drops', 'A sonic journey into underground beats.', 'bassbooster_mv.mp4', 8.3, 'Premium');
+INSERT INTO SubContent VALUES 
+('MV001', '2021-07-20', '01:35:00', 870, 30, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT015', 'Storm Watch', 'Kids discover a weather alert mystery.', 'skyalert_mv.mp4', 8.0, 'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001', '2021-08-10', '01:45:00', 920, 25, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT016', 'Rain Theory', 'Clouds unveil secrets in this sci-fi tale.', 'cloudcast_mv.mp4', 8.2, 'Premium');
+INSERT INTO SubContent VALUES 
+('MV001', '2021-09-12', '02:00:00', 1080, 50, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT017', 'Render Rage', 'A digital world war for survival.', 'pixelwar_mv.mp4', 8.6, 'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001', '2021-10-22', '02:10:00', 980, 70, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT018', 'Edge of Blade', 'An assassin faces betrayal and redemption.', 'bladeshift_mv.mp4', 8.7, 'Premium');
+INSERT INTO SubContent VALUES 
+('MV001', '2021-11-05', '01:30:00', 860, 20, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT019', 'Echo Explorer', 'A kid’s adventure through echoes of time.', 'echokids_mv.mp4', 7.8, 'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001', '2021-12-18', '01:55:00', 910, 35, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT020', 'Waves of Quiet', 'Silence speaks louder in this thriller.', 'silentsound_mv.mp4', 8.1, 'Premium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-02-15', '00:45:00', 1200, 50, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT021', 'Force Awakens', 'The beginning of the stream saga.', 'stream_force_ep1.mp4', 8.2, 'Premium'),
+('EP002', '2022-03-01', '00:50:00', 1300, 60, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT021', 'Force Rising', 'The stream saga continues.', 'stream_force_ep2.mp4', 8.3, 'Premium'),
+('EP003', '2022-03-15', '00:55:00', 1400, 70, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT021', 'Force Unleashed', 'The climax of the stream saga.', 'stream_force_ep3.mp4', 8.4, 'Premium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-04-10', '01:00:00', 1100, 40, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT022', 'Dark Beginnings', 'The darkness emerges.', 'darkstream_ep1.mp4', 7.9, 'NONPremium'),
+('EP002', '2022-04-24', '01:05:00', 1150, 45, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT022', 'Dark Depths', 'Deeper into the darkness.', 'darkstream_ep2.mp4', 8.0,  'NONPremium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-05-05', '00:30:00', 900, 20, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT023', 'Welcome Chat', 'Introduction to the chat lounge.', 'chat_lounge_ep1.mp4', 7.5, 'Premium'),
+('EP002', '2022-05-19', '00:35:00', 950, 25, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT023', 'Deep Conversations', 'Engaging discussions.', 'chat_lounge_ep2.mp4', 7.6, 'Premium'),
+('EP003', '2022-06-02', '00:40:00', 1000, 30, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT023', 'Closing Thoughts', 'Wrapping up the series.', 'chat_lounge_ep3.mp4', 7.7, 'Premium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-06-15', '00:50:00', 1050, 35, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT024', 'Voices Unite', 'The rise of voices.', 'voices_rising_ep1.mp4', 8.1, 'NONPremium'),
+('EP002', '2022-06-29', '00:55:00', 1100, 40, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT024', 'Voices Amplified', 'Amplifying the message.', 'voices_rising_ep2.mp4', 8.2, 'NONPremium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-07-10', '01:00:00', 1150, 45, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT025', 'Signal Detected', 'The storm begins.', 'signal_storm_ep1.mp4', 8.3, 'Premium'),
+('EP002', '2022-07-24', '01:05:00', 1200, 50, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT025', 'Signal Lost', 'Chaos ensues.', 'signal_storm_ep2.mp4', 8.4, 'Premium'),
+('EP003', '2022-07-31', '01:10:00', 1250, 55, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT025', 'Signal Restored', 'Hope returns.', 'signal_storm_ep3.mp4', 8.3, 'Premium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-08-01', '00:22:00', 2400, 300, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT026', 'The Ripple', 'Introduction to the water explorers.', 'wave_walkers_ep1.mp4', 7.5, 'NONPremium'),
+('EP002', '2022-08-15', '00:21:00', 2500, 280, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT026', 'The Deep Dive', 'A journey into the unknown currents.', 'wave_walkers_ep2.mp4', 7.8, 'NONPremium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-09-03', '00:24:00', 3100, 400, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT027', 'Vision Start', 'A tale seen through different eyes.', 'vision_tales_ep1.mp4', 8.0, 'Premium'),
+('EP002', '2022-09-20', '00:23:00', 3200, 390, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT027', 'Echoes of Sight', 'Visions beyond the veil.', 'vision_tales_ep2.mp4', 8.2, 'Premium'),
+('EP003', '2022-10-05', '00:22:00', 3300, 420, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT027', 'Clarity Found', 'The final vision emerges.', 'vision_tales_ep3.mp4', 8.4, 'Premium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-08-18', '00:25:00', 4000, 450, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT028', 'Snap Start', 'The story begins with a single photo.', 'final_frame_ep1.mp4', 7.9, 'Premium'),
+('EP002', '2022-09-02', '00:25:00', 4200, 470, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT028', 'Blurry Truth', 'Unraveling the mystery behind the frame.', 'final_frame_ep2.mp4', 8.1, 'Premium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-08-10', '00:20:00', 3500, 500, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT029', 'Dark Origins', 'Mystery begins in the nest.', 'nest_noir_ep1.mp4', 7.6, 'NONPremium'),
+('EP002', '2022-08-25', '00:22:00', 3600, 520, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT029', 'Feathers and Clues', 'Pieces of the puzzle are uncovered.', 'nest_noir_ep2.mp4', 7.9, 'NONPremium');
+INSERT INTO SubContent VALUES 
+('EP001', '2022-09-01', '00:18:00', 2700, 350, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT030', 'Bright Beginnings', 'The world of joy through streaming.', 'smiles_ep1.mp4', 7.2, 'NONPremium'),
+('EP002', '2022-09-17', '00:19:00', 2800, 370, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT030', 'Giggles Go Global', 'Spreading smiles across borders.', 'smiles_ep2.mp4', 7.5, 'NONPremium'),
+('EP003', '2022-10-08', '00:19:00', 2900, 360, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT030', 'Joy Uninterrupted', 'Streaming happiness nonstop.', 'smiles_ep3.mp4', 7.6, 'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001', '2024-02-10', '01:40:00', 8000, 1000, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT031', 'Byte Beats: The Surge', 'Digital rhythms awaken a dormant AI.', 'byte_beats_mv1.mp4', 8.1, 'Premium');
+INSERT INTO SubContent VALUES 
+('MV001', '2024-03-15', '01:35:00', 7500, 950, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT032', 'Rhythm Run: Final Track', 'A music-powered race to freedom.', 'rhythm_run_mv1.mp4', 7.8, 'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001', '2024-05-20', '01:50:00', 9100, 1100, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT033', 'Echo Chamber: The Feedback Loop', 'Voices trapped in an endless repeat.', 'echo_chamber_mv1.mp4', 8.4, 'Premium');
+INSERT INTO SubContent VALUES 
+('MV001', '2024-06-25', '01:20:00', 7200, 850, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT034', 'Playhouse: The Puppet Shift', 'Toys take over when no one’s watching.', 'playhouse_mv1.mp4', 7.3, 'NONPremium');
+INSERT INTO SubContent VALUES 
+('MV001', '2024-08-12', '01:45:00', 8700, 970, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT035', 'Whispers: Voices Beyond', 'Haunting secrets echo in the silence.', 'whispers_mv1.mp4', 8.2, 'Premium');
+INSERT INTO SubContent VALUES 
+('MV001', '2024-11-04', '01:38:00', 8100, 1000, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'CT036', 'The Flow: Unbroken', 'An artist flows through time and memory.', 'the_flow_mv1.mp4', 7.9, 'NONPremium');
+
+
+
+
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT001', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT001', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT001', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT001', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT001', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT001', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT001', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT001', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT001', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT001', 'EP004');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT001', 'EP004');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT001', 'EP004');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT001', 'EP005');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT001', 'EP005');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT001', 'EP005');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT001', 'EP005');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT002', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT002', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT002', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT002', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT003', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT003', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT003', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT003', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT003', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT003', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT003', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT003', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT003', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT003', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT003', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT003', 'EP004');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT003', 'EP004');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT003', 'EP004');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT003', 'EP005');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT003', 'EP005');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT003', 'EP005');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT004', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT004', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT004', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT005', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT005', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT005', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT005', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT005', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT005', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT006', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT006', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT006', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT006', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT006', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT006', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT006', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT007', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT007', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT007', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT007', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT007', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT007', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT008', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT008', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT008', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT009', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT009', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT009', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT010', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT010', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT010', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT011', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT011', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT011', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT011', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT012', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT012', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT012', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT013', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT013', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT013', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT014', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT014', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT014', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT015', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT015', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT015', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT016', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT016', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT016', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT017', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT017', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT017', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT017', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT018', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT018', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT018', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT018', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT019', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT019', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT019', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT019', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT020', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT020', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT020', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT021', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT021', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT021', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT021', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT021', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT021', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT021', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT021', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT021', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT021', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT022', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT022', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT022', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT022', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT022', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT022', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT023', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT023', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT023', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT023', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT023', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT023', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT023', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT023', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT023', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT023', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT024', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT024', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT024', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT024', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT024', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT024', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT024', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT024', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT025', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT025', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT025', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT025', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT025', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT025', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT025', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT025', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT026', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT026', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT026', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT026', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT026', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT026', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT026', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT027', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT027', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT027', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT027', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT027', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT027', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT027', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT027', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT027', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT027', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT028', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT028', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT028', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT028', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT028', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT028', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT029', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT029', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT029', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT029', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT029', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT029', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT029', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT030', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT030', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT030', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT030', 'EP001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT030', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT030', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT030', 'EP002');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT030', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT030', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT030', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT030', 'EP003');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT031', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT031', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT031', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT031', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT032', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT032', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT032', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Amara Patel', 'CT033', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT033', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT033', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT034', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT034', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT034', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Yuki Tanaka', 'CT035', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT035', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Carlos Mendes', 'CT035', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('John Doe', 'CT036', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Alex Rivera', 'CT036', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Liu Wei', 'CT036', 'MV001');
+INSERT INTO Casts (CastName, ContentID, SubContentID) VALUES ('Jane Smith', 'CT036', 'MV001');
+
+
+INSERT INTO Languages VALUES ('French', 'CT001');
+INSERT INTO Languages VALUES ('Spanish', 'CT001');
+INSERT INTO Languages VALUES ('English', 'CT002');
+INSERT INTO Languages VALUES ('Portuguese', 'CT002');
+INSERT INTO Languages VALUES ('Japanese', 'CT002');
+INSERT INTO Languages VALUES ('Hindi', 'CT002');
+INSERT INTO Languages VALUES ('Portuguese', 'CT003');
+INSERT INTO Languages VALUES ('French', 'CT004');
+INSERT INTO Languages VALUES ('Japanese', 'CT004');
+INSERT INTO Languages VALUES ('German', 'CT004');
+INSERT INTO Languages VALUES ('Spanish', 'CT004');
+INSERT INTO Languages VALUES ('Chinese', 'CT005');
+INSERT INTO Languages VALUES ('German', 'CT005');
+INSERT INTO Languages VALUES ('Hindi', 'CT005');
+INSERT INTO Languages VALUES ('Korean', 'CT005');
+INSERT INTO Languages VALUES ('Hindi', 'CT006');
+INSERT INTO Languages VALUES ('Chinese', 'CT006');
+INSERT INTO Languages VALUES ('Korean', 'CT006');
+INSERT INTO Languages VALUES ('Spanish', 'CT006');
+INSERT INTO Languages VALUES ('Korean', 'CT007');
+INSERT INTO Languages VALUES ('Chinese', 'CT008');
+INSERT INTO Languages VALUES ('French', 'CT008');
+INSERT INTO Languages VALUES ('Portuguese', 'CT008');
+INSERT INTO Languages VALUES ('German', 'CT009');
+INSERT INTO Languages VALUES ('Hindi', 'CT009');
+INSERT INTO Languages VALUES ('German', 'CT010');
+INSERT INTO Languages VALUES ('Japanese', 'CT010');
+INSERT INTO Languages VALUES ('Chinese', 'CT010');
+INSERT INTO Languages VALUES ('Spanish', 'CT010');
+INSERT INTO Languages VALUES ('French', 'CT011');
+INSERT INTO Languages VALUES ('German', 'CT011');
+INSERT INTO Languages VALUES ('Chinese', 'CT011');
+INSERT INTO Languages VALUES ('Japanese', 'CT012');
+INSERT INTO Languages VALUES ('Korean', 'CT012');
+INSERT INTO Languages VALUES ('English', 'CT013');
+INSERT INTO Languages VALUES ('French', 'CT013');
+INSERT INTO Languages VALUES ('Korean', 'CT013');
+INSERT INTO Languages VALUES ('German', 'CT014');
+INSERT INTO Languages VALUES ('Hindi', 'CT014');
+INSERT INTO Languages VALUES ('Japanese', 'CT014');
+INSERT INTO Languages VALUES ('Portuguese', 'CT014');
+INSERT INTO Languages VALUES ('Japanese', 'CT015');
+INSERT INTO Languages VALUES ('Spanish', 'CT015');
+INSERT INTO Languages VALUES ('Portuguese', 'CT015');
+INSERT INTO Languages VALUES ('Hindi', 'CT015');
+INSERT INTO Languages VALUES ('Korean', 'CT016');
+INSERT INTO Languages VALUES ('Portuguese', 'CT016');
+INSERT INTO Languages VALUES ('Spanish', 'CT016');
+INSERT INTO Languages VALUES ('Hindi', 'CT017');
+INSERT INTO Languages VALUES ('English', 'CT017');
+INSERT INTO Languages VALUES ('Korean', 'CT017');
+INSERT INTO Languages VALUES ('Japanese', 'CT017');
+INSERT INTO Languages VALUES ('Hindi', 'CT018');
+INSERT INTO Languages VALUES ('Korean', 'CT018');
+INSERT INTO Languages VALUES ('French', 'CT018');
+INSERT INTO Languages VALUES ('German', 'CT018');
+INSERT INTO Languages VALUES ('Hindi', 'CT019');
+INSERT INTO Languages VALUES ('German', 'CT020');
+INSERT INTO Languages VALUES ('German', 'CT021');
+INSERT INTO Languages VALUES ('Portuguese', 'CT022');
+INSERT INTO Languages VALUES ('French', 'CT022');
+INSERT INTO Languages VALUES ('Hindi', 'CT022');
+INSERT INTO Languages VALUES ('Chinese', 'CT023');
+INSERT INTO Languages VALUES ('German', 'CT024');
+INSERT INTO Languages VALUES ('French', 'CT024');
+INSERT INTO Languages VALUES ('English', 'CT024');
+INSERT INTO Languages VALUES ('Hindi', 'CT025');
+INSERT INTO Languages VALUES ('Japanese', 'CT026');
+INSERT INTO Languages VALUES ('Spanish', 'CT026');
+INSERT INTO Languages VALUES ('Portuguese', 'CT027');
+INSERT INTO Languages VALUES ('French', 'CT027');
+INSERT INTO Languages VALUES ('Portuguese', 'CT028');
+INSERT INTO Languages VALUES ('Japanese', 'CT028');
+INSERT INTO Languages VALUES ('English', 'CT028');
+INSERT INTO Languages VALUES ('Hindi', 'CT028');
+INSERT INTO Languages VALUES ('English', 'CT029');
+INSERT INTO Languages VALUES ('French', 'CT029');
+INSERT INTO Languages VALUES ('German', 'CT029');
+INSERT INTO Languages VALUES ('English', 'CT030');
+INSERT INTO Languages VALUES ('Chinese', 'CT031');
+INSERT INTO Languages VALUES ('German', 'CT032');
+INSERT INTO Languages VALUES ('Japanese', 'CT032');
+INSERT INTO Languages VALUES ('Japanese', 'CT033');
+INSERT INTO Languages VALUES ('French', 'CT033');
+INSERT INTO Languages VALUES ('Hindi', 'CT034');
+INSERT INTO Languages VALUES ('Japanese', 'CT035');
+INSERT INTO Languages VALUES ('English', 'CT035');
+INSERT INTO Languages VALUES ('Chinese', 'CT035');
+INSERT INTO Languages VALUES ('Korean', 'CT035');
+INSERT INTO Languages VALUES ('Hindi', 'CT036');
+INSERT INTO Languages VALUES ('French', 'CT036');
+INSERT INTO Languages VALUES ('Portuguese', 'CT036');
+
+
+INSERT INTO Genre VALUES ('CT001', 'Drama');
+INSERT INTO Genre VALUES ('CT001', 'Action');
+INSERT INTO Genre VALUES ('CT001', 'Horror');
+INSERT INTO Genre VALUES ('CT002', 'Drama');
+INSERT INTO Genre VALUES ('CT002', 'Fantasy');
+INSERT INTO Genre VALUES ('CT002', 'Documentary');
+INSERT INTO Genre VALUES ('CT003', 'Fantasy');
+INSERT INTO Genre VALUES ('CT004', 'Fantasy');
+INSERT INTO Genre VALUES ('CT005', 'Comedy');
+INSERT INTO Genre VALUES ('CT006', 'Drama');
+INSERT INTO Genre VALUES ('CT006', 'Documentary');
+INSERT INTO Genre VALUES ('CT007', 'Horror');
+INSERT INTO Genre VALUES ('CT007', 'Action');
+INSERT INTO Genre VALUES ('CT007', 'Adventure');
+INSERT INTO Genre VALUES ('CT008', 'Fantasy');
+INSERT INTO Genre VALUES ('CT009', 'Action');
+INSERT INTO Genre VALUES ('CT010', 'Drama');
+INSERT INTO Genre VALUES ('CT011', 'Romance');
+INSERT INTO Genre VALUES ('CT012', 'Drama');
+INSERT INTO Genre VALUES ('CT012', 'Comedy');
+INSERT INTO Genre VALUES ('CT012', 'Sci-Fi');
+INSERT INTO Genre VALUES ('CT013', 'Fantasy');
+INSERT INTO Genre VALUES ('CT013', 'Sci-Fi');
+INSERT INTO Genre VALUES ('CT014', 'Romance');
+INSERT INTO Genre VALUES ('CT015', 'Romance');
+INSERT INTO Genre VALUES ('CT015', 'Sci-Fi');
+INSERT INTO Genre VALUES ('CT015', 'Adventure');
+INSERT INTO Genre VALUES ('CT016', 'Fantasy');
+INSERT INTO Genre VALUES ('CT017', 'Comedy');
+INSERT INTO Genre VALUES ('CT018', 'Comedy');
+INSERT INTO Genre VALUES ('CT019', 'Fantasy');
+INSERT INTO Genre VALUES ('CT019', 'Horror');
+INSERT INTO Genre VALUES ('CT020', 'Fantasy');
+INSERT INTO Genre VALUES ('CT020', 'Horror');
+INSERT INTO Genre VALUES ('CT020', 'Romance');
+INSERT INTO Genre VALUES ('CT021', 'Comedy');
+INSERT INTO Genre VALUES ('CT021', 'Adventure');
+INSERT INTO Genre VALUES ('CT022', 'Comedy');
+INSERT INTO Genre VALUES ('CT022', 'Fantasy');
+INSERT INTO Genre VALUES ('CT022', 'Drama');
+INSERT INTO Genre VALUES ('CT023', 'Comedy');
+INSERT INTO Genre VALUES ('CT023', 'Fantasy');
+INSERT INTO Genre VALUES ('CT024', 'Action');
+INSERT INTO Genre VALUES ('CT024', 'Drama');
+INSERT INTO Genre VALUES ('CT025', 'Documentary');
+INSERT INTO Genre VALUES ('CT026', 'Adventure');
+INSERT INTO Genre VALUES ('CT026', 'Drama');
+INSERT INTO Genre VALUES ('CT026', 'Comedy');
+INSERT INTO Genre VALUES ('CT027', 'Fantasy');
+INSERT INTO Genre VALUES ('CT027', 'Thriller');
+INSERT INTO Genre VALUES ('CT028', 'Horror');
+INSERT INTO Genre VALUES ('CT028', 'Thriller');
+INSERT INTO Genre VALUES ('CT028', 'Romance');
+INSERT INTO Genre VALUES ('CT029', 'Drama');
+INSERT INTO Genre VALUES ('CT030', 'Action');
+INSERT INTO Genre VALUES ('CT031', 'Drama');
+INSERT INTO Genre VALUES ('CT032', 'Fantasy');
+INSERT INTO Genre VALUES ('CT033', 'Fantasy');
+INSERT INTO Genre VALUES ('CT034', 'Thriller');
+INSERT INTO Genre VALUES ('CT034', 'Sci-Fi');
+INSERT INTO Genre VALUES ('CT035', 'Thriller');
+INSERT INTO Genre VALUES ('CT035', 'Romance');
+INSERT INTO Genre VALUES ('CT035', 'Documentary');
+INSERT INTO Genre VALUES ('CT036', 'Drama');
+INSERT INTO Genre VALUES ('CT036', 'Action');
+INSERT INTO Genre VALUES ('CT036', 'Thriller');
+
+
+
+INSERT INTO Advertisement VALUES ('AD001', 'Tech', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C001', 'ad_tech_future.mp4');
+INSERT INTO Advertisement VALUES ('AD002', 'Fashion', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C002', 'ad_fashion_trend.mp4');
+INSERT INTO Advertisement VALUES ('AD003', 'Gaming', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C003', 'ad_game_arena.mp4');
+INSERT INTO Advertisement VALUES ('AD004', 'Food', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C004', 'ad_food_crave.mp4');
+INSERT INTO Advertisement VALUES ('AD005', 'Travel', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C005', 'ad_travel_wonders.mp4');
+INSERT INTO Advertisement VALUES ('AD006', 'Education', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C006', 'ad_edu_learn.mp4');
+INSERT INTO Advertisement VALUES ('AD007', 'Tech', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C001', 'ad_ai_breakthrough.mp4');
+INSERT INTO Advertisement VALUES ('AD008', 'Health', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C007', 'ad_health_life.mp4');
+INSERT INTO Advertisement VALUES ('AD009', 'Fashion', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C002', 'ad_style_today.mp4');
+INSERT INTO Advertisement VALUES ('AD010', 'Automobile', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'C008', 'ad_auto_drive.mp4');
+
+
+INSERT INTO Subscription_Tier VALUES ('Gold',300,3);
+INSERT INTO Subscription_Tier VALUES ('Silver',150,1);
+INSERT INTO Subscription_Tier VALUES ('Diamond',550,6);
+INSERT INTO Subscription_Tier VALUES ('Platinium',1000,12);
+
+INSERT INTO Subscription_Payment_Details VALUES ('U001', 'P001', 'Card', 300, '07:14:08', '2024-05-20', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U002', 'P002', 'Card', 300, '13:02:01', '2024-10-29', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U003', 'P003', 'UPI', 270, '16:38:01', '2024-04-29', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U004', 'P004', 'Wallet', 150, '14:37:17', '2024-04-22', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U005', 'P005', 'UPI', 300, '13:21:17', '2024-12-23', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U006', 'P006', 'UPI', 150, '03:05:24', '2024-06-21', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U007', 'P007', 'NetBanking', 300, '19:16:51', '2024-06-25', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U008', 'P008', 'Wallet', 300, '03:59:24', '2024-10-01', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U009', 'P009', 'NetBanking', 300, '19:56:55', '2024-11-17', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U010', 'P010', 'UPI', 550, '02:02:42', '2024-12-26', 'Diamond');
+INSERT INTO Subscription_Payment_Details VALUES ('U011', 'P011', 'NetBanking', 150, '07:55:06', '2024-02-10', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U012', 'P012', 'NetBanking', 1000, '20:53:23', '2024-08-20', 'Platinium');
+INSERT INTO Subscription_Payment_Details VALUES ('U013', 'P013', 'NetBanking', 150, '06:42:17', '2024-06-30', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U014', 'P014', 'UPI', 300, '23:15:10', '2024-09-30', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U015', 'P015', 'Wallet', 1000, '20:44:35', '2024-05-18', 'Platinium');
+INSERT INTO Subscription_Payment_Details VALUES ('U016', 'P016', 'Card', 300, '10:25:30', '2024-07-12', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U017', 'P017', 'NetBanking', 150, '11:34:40', '2024-10-01', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U018', 'P018', 'UPI', 300, '09:20:22', '2024-12-14', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U026', 'P026', 'Wallet', 270, '17:39:25', '2024-05-13', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U027', 'P027', 'Card', 300, '19:13:40', '2024-08-21', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U028', 'P028', 'NetBanking', 150, '20:40:22', '2024-12-02', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U029', 'P029', 'UPI', 300, '16:27:55', '2024-11-05', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U030', 'P030', 'Wallet', 550, '08:55:11', '2024-06-12', 'Diamond');
+INSERT INTO Subscription_Payment_Details VALUES ('U031', 'P031', 'Card', 150, '14:13:10', '2024-05-25', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U032', 'P032', 'NetBanking', 300, '18:47:33', '2024-10-10', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U033', 'P033', 'UPI', 270, '12:34:50', '2024-08-05', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U034', 'P034', 'Wallet', 150, '10:24:22', '2024-07-15', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U035', 'P035', 'NetBanking', 300, '09:33:02', '2024-12-04', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U036', 'P036', 'UPI', 150, '14:22:22', '2024-05-30', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U037', 'P037', 'Wallet', 300, '19:50:12', '2024-09-15', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U038', 'P038', 'Card', 150, '11:30:42', '2024-10-25', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U039', 'P039', 'NetBanking', 300, '07:45:33', '2024-06-15', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U040', 'P040', 'UPI', 150, '15:50:27', '2024-09-30', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U041', 'P041', 'Wallet', 150, '12:13:11', '2024-08-28', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U047', 'P047', 'NetBanking', 150, '20:20:11', '2024-05-15', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U048', 'P048', 'UPI', 550, '15:12:00', '2024-11-03', 'Diamond');
+INSERT INTO Subscription_Payment_Details VALUES ('U049', 'P049', 'Wallet', 300, '10:00:01', '2024-07-20', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U050', 'P050', 'Card', 300, '19:39:12', '2024-09-02', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U051', 'P051', 'NetBanking', 150, '14:57:20', '2024-06-05', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U052', 'P052', 'UPI', 150, '11:55:14', '2024-07-13', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U053', 'P053', 'Wallet', 300, '12:13:50', '2024-08-18', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U054', 'P054', 'Card', 300, '18:14:34', '2024-06-23', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U055', 'P055', 'NetBanking', 150, '14:11:01', '2024-10-16', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U056', 'P056', 'UPI', 300, '20:20:33', '2024-12-10', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U057', 'P057', 'Wallet', 150, '08:02:12', '2024-09-14', 'Silver');
+INSERT INTO Subscription_Payment_Details VALUES ('U058', 'P058', 'Card', 270, '17:30:40', '2024-06-17', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U059', 'P059', 'NetBanking', 300, '10:59:22', '2024-07-26', 'Gold');
+INSERT INTO Subscription_Payment_Details VALUES ('U060', 'P060', 'UPI', 150, '14:00:00', '2024-10-12', 'Silver');
+
+
+INSERT INTO Ad_Watched_by_User VALUES 
+('2025-04-10', '09:15:00', 'AD001', 'U001', 'N'),
+('2025-04-10', '10:20:00', 'AD002', 'U002', 'Y'),
+('2025-04-10', '11:05:00', 'AD003', 'U003', 'N'),
+('2025-04-10', '11:45:00', 'AD004', 'U004', 'N'),
+('2025-04-10', '12:10:00', 'AD005', 'U005', 'Y'),
+('2025-04-10', '12:45:00', 'AD006', 'U006', 'N'),
+('2025-04-10', '13:30:00', 'AD007', 'U007', 'N'),
+('2025-04-10', '14:00:00', 'AD008', 'U008', 'Y'),
+('2025-04-10', '14:30:00', 'AD009', 'U009', 'N'),
+('2025-04-10', '15:10:00', 'AD010', 'U010', 'Y'),
+('2025-04-11', '08:25:00', 'AD001', 'U011', 'N'),
+('2025-04-11', '08:40:00', 'AD002', 'U012', 'N'),
+('2025-04-11', '09:05:00', 'AD003', 'U013', 'Y'),
+('2025-04-11', '09:25:00', 'AD004', 'U014', 'N'),
+('2025-04-12', '13:00:00', 'AD009', 'U029', 'Y'),
+('2025-04-12', '13:30:00', 'AD010', 'U030', 'N'),
+('2025-04-13', '08:30:00', 'AD001', 'U031', 'Y'),
+('2025-04-13', '09:00:00', 'AD002', 'U032', 'N'),
+('2025-04-13', '09:30:00', 'AD003', 'U033', 'N'),
+('2025-04-13', '10:00:00', 'AD004', 'U034', 'Y'),
+('2025-04-13', '10:30:00', 'AD005', 'U035', 'N'),
+('2025-04-13', '11:00:00', 'AD006', 'U036', 'Y'),
+('2025-04-13', '11:30:00', 'AD007', 'U037', 'N'),
+('2025-04-13', '12:00:00', 'AD008', 'U038', 'N'),
+('2025-04-13', '12:30:00', 'AD009', 'U039', 'Y'),
+('2025-04-13', '13:00:00', 'AD010', 'U040', 'N'),
+('2025-04-14', '08:10:00', 'AD001', 'U041', 'N'),
+('2025-04-14', '08:40:00', 'AD002', 'U042', 'N'),
+('2025-04-14', '09:10:00', 'AD003', 'U043', 'Y'),
+('2025-04-14', '09:40:00', 'AD004', 'U044', 'N'),
+('2025-04-14', '10:10:00', 'AD005', 'U045', 'Y'),
+('2025-04-14', '10:40:00', 'AD006', 'U046', 'N'),
+('2025-04-11', '09:50:00', 'AD005', 'U015', 'N'),
+('2025-04-11', '10:10:00', 'AD006', 'U016', 'Y'),
+('2025-04-11', '10:35:00', 'AD007', 'U017', 'N'),
+('2025-04-11', '11:00:00', 'AD008', 'U018', 'Y'),
+('2025-04-11', '11:30:00', 'AD009', 'U019', 'N'),
+('2025-04-11', '12:00:00', 'AD010', 'U020', 'N'),
+('2025-04-12', '09:00:00', 'AD001', 'U021', 'N'),
+('2025-04-12', '09:30:00', 'AD002', 'U022', 'Y'),
+('2025-04-12', '10:00:00', 'AD003', 'U023', 'N'),
+('2025-04-16', '09:40:00', 'AD004', 'U004', 'N'),
+('2025-04-16', '10:10:00', 'AD005', 'U005', 'Y'),
+('2025-04-16', '10:40:00', 'AD006', 'U006', 'N'),
+('2025-04-16', '11:10:00', 'AD007', 'U007', 'Y'),
+('2025-04-16', '11:40:00', 'AD008', 'U008', 'N'),
+('2025-04-16', '12:10:00', 'AD009', 'U009', 'Y'),
+('2025-04-16', '12:40:00', 'AD010', 'U010', 'N'),
+('2025-04-17', '08:20:00', 'AD001', 'U011', 'Y'),
+('2025-04-17', '08:50:00', 'AD002', 'U012', 'N'),
+('2025-04-17', '09:20:00', 'AD003', 'U013', 'N'),
+('2025-04-17', '09:50:00', 'AD004', 'U014', 'Y'),
+('2025-04-17', '10:20:00', 'AD005', 'U015', 'N'),
+('2025-04-17', '10:50:00', 'AD006', 'U016', 'N'),
+('2025-04-17', '11:20:00', 'AD007', 'U017', 'Y'),
+('2025-04-17', '11:50:00', 'AD008', 'U018', 'Y'),
+('2025-04-17', '12:20:00', 'AD009', 'U019', 'N'),
+('2025-04-17', '12:50:00', 'AD010', 'U020', 'Y'),
+('2025-04-18', '08:30:00', 'AD001', 'U021', 'N'),
+('2025-04-18', '09:00:00', 'AD002', 'U022', 'Y'),
+('2025-04-18', '09:30:00', 'AD003', 'U023', 'Y'),
+('2025-04-18', '10:00:00', 'AD004', 'U024', 'N'),
+('2025-04-18', '10:30:00', 'AD005', 'U025', 'Y'),
+('2025-04-18', '11:00:00', 'AD006', 'U026', 'N'),
+('2025-04-18', '11:30:00', 'AD007', 'U027', 'N'),
+('2025-04-18', '12:00:00', 'AD008', 'U028', 'Y'),
+('2025-04-18', '12:30:00', 'AD009', 'U029', 'N'),
+('2025-04-18', '13:00:00', 'AD010', 'U030', 'Y'),
+('2025-04-12', '10:30:00', 'AD004', 'U024', 'Y'),
+('2025-04-12', '11:00:00', 'AD005', 'U025', 'N'),
+('2025-04-12', '11:30:00', 'AD006', 'U026', 'Y'),
+('2025-04-12', '12:00:00', 'AD007', 'U027', 'N'),
+('2025-04-12', '12:30:00', 'AD008', 'U028', 'N'),
+('2025-04-14', '11:10:00', 'AD007', 'U047', 'Y'),
+('2025-04-14', '11:40:00', 'AD008', 'U048', 'N'),
+('2025-04-14', '12:10:00', 'AD009', 'U049', 'N'),
+('2025-04-14', '12:40:00', 'AD010', 'U050', 'Y');
+
+
+
+INSERT INTO Content_Watched_by_User (Date, Time, UserID, SubContentID, ContentID, Reviews) VALUES
+('2025-02-24', '00:04:00', 'U001', 'MV001', 'CT013', 'Great!'),
+('2024-11-03', '20:08:00', 'U001', 'EP002', 'CT030', 'It was okay'),
+('2024-09-30', '02:29:00', 'U001', 'MV001', 'CT033', 'Loved it'),
+('2025-03-02', '07:07:00', 'U001', 'MV001', 'CT011', NULL),
+('2024-08-05', '09:22:00', 'U001', 'MV001', 'CT008', 'It was okay'),
+('2024-10-06', '01:14:00', 'U001', 'EP001', 'CT007', 'Loved it'),
+('2024-09-26', '11:27:00', 'U001', 'EP002', 'CT024', NULL),
+('2024-04-24', '23:13:00', 'U001', 'MV001', 'CT031', NULL),
+('2024-09-07', '18:17:00', 'U002', 'EP002', 'CT007', 'Not bad'),
+('2024-04-12', '23:39:00', 'U002', 'EP003', 'CT027', 'Not bad'),
+('2024-04-17', '02:14:00', 'U002', 'EP002', 'CT028', 'Could be better'),
+('2024-06-30', '00:38:00', 'U002', 'EP001', 'CT001', 'It was okay'),
+('2025-04-08', '12:17:00', 'U002', 'EP001', 'CT005', 'Could be better'),
+('2024-07-12', '04:09:00', 'U002', 'EP001', 'CT029', 'Not bad'),
+('2024-11-04', '21:05:00', 'U002', 'EP002', 'CT027', 'It was okay'),
+('2025-03-03', '06:16:00', 'U002', 'MV001', 'CT012', 'It was okay'),
+('2025-01-26', '19:14:00', 'U002', 'MV001', 'CT035', 'It was okay'),
+('2024-06-11', '15:05:00', 'U003', 'MV001', 'CT014', 'It was okay'),
+('2024-09-04', '07:31:00', 'U003', 'MV001', 'CT020', 'Not bad'),
+('2024-09-02', '23:51:00', 'U003', 'EP001', 'CT030', 'Amazing episode!'),
+('2024-12-11', '11:30:00', 'U003', 'MV001', 'CT010', 'Could be better'),
+('2025-02-09', '14:56:00', 'U003', 'MV001', 'CT019', NULL),
+('2025-03-22', '13:27:00', 'U003', 'MV001', 'CT011', 'Could be better'),
+('2025-01-09', '15:25:00', 'U003', 'MV001', 'CT019', 'It was okay'),
+('2024-10-04', '07:06:00', 'U003', 'EP001', 'CT030', 'Not bad'),
+('2025-01-07', '15:33:00', 'U003', 'EP001', 'CT028', 'Loved it'),
+('2024-04-10', '09:14:00', 'U003', 'EP001', 'CT027', 'Loved it'),
+('2024-10-20', '23:30:00', 'U004', 'MV001', 'CT008', 'Could be better'),
+('2024-05-26', '07:39:00', 'U004', 'EP001', 'CT029', 'Not bad'),
+('2024-10-05', '03:14:00', 'U004', 'MV001', 'CT019', 'Not bad'),
+('2024-08-17', '05:04:00', 'U004', 'EP001', 'CT025', 'Could be better'),
+('2024-06-13', '16:37:00', 'U004', 'MV001', 'CT012', 'Loved it'),
+('2024-07-21', '05:50:00', 'U004', 'MV001', 'CT002', NULL),
+('2024-06-06', '15:50:00', 'U004', 'EP002', 'CT022', 'Amazing episode!'),
+('2025-02-14', '03:55:00', 'U004', 'MV001', 'CT032', 'Could be better'),
+('2024-11-17', '01:54:00', 'U004', 'EP001', 'CT027', 'Amazing episode!'),
+('2024-09-12', '06:21:00', 'U004', 'MV001', 'CT016', 'Not bad'),
+('2024-09-27', '12:16:00', 'U005', 'EP002', 'CT028', 'Could be better'),
+('2024-11-29', '20:13:00', 'U005', 'EP002', 'CT021', 'Loved it'),
+('2025-02-14', '06:27:00', 'U005', 'MV001', 'CT012', 'Great!'),
+('2024-04-27', '19:09:00', 'U005', 'EP001', 'CT023', 'Great!'),
+('2024-11-11', '17:08:00', 'U005', 'EP001', 'CT029', 'Amazing episode!'),
+('2025-03-05', '13:40:00', 'U005', 'EP001', 'CT005', 'Could be better'),
+('2024-12-23', '23:10:00', 'U005', 'EP002', 'CT025', 'Loved it'),
+('2024-04-19', '16:04:00', 'U005', 'MV001', 'CT015', 'Not bad'),
+('2025-03-13', '09:22:00', 'U005', 'EP002', 'CT026', NULL),
+('2024-12-28', '10:53:00', 'U005', 'MV001', 'CT016', 'It was okay'),
+('2024-04-12', '16:27:00', 'U006', 'MV001', 'CT018', 'It was okay'),
+('2025-03-10', '04:53:00', 'U006', 'EP001', 'CT022', 'Great!'),
+('2024-07-25', '22:52:00', 'U006', 'MV001', 'CT019', 'Loved it'),
+('2024-10-20', '07:18:00', 'U006', 'EP002', 'CT026', 'Not bad'),
+('2025-01-17', '17:07:00', 'U006', 'EP001', 'CT007', 'Great!'),
+('2024-11-05', '02:08:00', 'U006', 'EP001', 'CT005', 'Could be better'),
+('2024-10-11', '01:52:00', 'U006', 'MV001', 'CT008', NULL),
+('2024-05-30', '04:27:00', 'U006', 'EP001', 'CT007', 'Not bad'),
+('2024-04-24', '21:49:00', 'U006', 'EP001', 'CT026', 'Amazing episode!'),
+('2025-03-31', '17:36:00', 'U006', 'MV001', 'CT035', 'Loved it'),
+('2024-04-18', '00:43:00', 'U007', 'MV001', 'CT033', 'It was okay'),
+('2024-09-02', '19:08:00', 'U007', 'MV001', 'CT008', 'Great!'),
+('2024-04-12', '05:34:00', 'U007', 'EP002', 'CT024', 'Could be better'),
+('2025-03-02', '04:59:00', 'U007', 'EP002', 'CT028', 'Not bad'),
+('2024-11-01', '06:42:00', 'U007', 'MV001', 'CT017', 'Great!'),
+('2025-03-19', '15:25:00', 'U007', 'EP001', 'CT023', 'Loved it'),
+('2024-06-21', '02:42:00', 'U007', 'EP001', 'CT005', 'Great!'),
+('2024-11-10', '09:48:00', 'U007', 'EP002', 'CT029', 'Not bad'),
+('2024-12-07', '21:22:00', 'U007', 'MV001', 'CT036', 'Could be better'),
+('2024-04-13', '14:58:00', 'U007', 'EP002', 'CT023', 'Not bad'),
+('2024-04-25', '14:53:00', 'U008', 'EP001', 'CT007', 'Amazing episode!'),
+('2024-09-17', '20:13:00', 'U008', 'EP002', 'CT007', NULL),
+('2024-07-05', '11:12:00', 'U008', 'EP001', 'CT023', 'Could be better'),
+('2025-02-23', '04:04:00', 'U008', 'MV001', 'CT020', NULL),
+('2024-04-28', '00:19:00', 'U008', 'EP002', 'CT027', 'Great!'),
+('2024-04-28', '21:44:00', 'U008', 'MV001', 'CT008', 'Not bad'),
+('2024-06-11', '20:44:00', 'U008', 'MV001', 'CT010', 'Amazing episode!'),
+('2024-12-14', '17:32:00', 'U008', 'EP002', 'CT022', 'Could be better'),
+('2024-08-21', '17:19:00', 'U008', 'MV001', 'CT034', 'Amazing episode!'),
+('2024-09-21', '11:03:00', 'U008', 'EP001', 'CT025', 'Not bad'),
+('2024-07-08', '11:23:00', 'U009', 'MV001', 'CT036', 'Amazing episode!'),
+('2024-08-12', '10:09:00', 'U009', 'MV001', 'CT018', 'Loved it'),
+('2025-01-09', '09:22:00', 'U009', 'EP002', 'CT026', 'Amazing episode!'),
+('2024-08-01', '01:25:00', 'U009', 'EP001', 'CT026', 'Great!'),
+('2024-10-16', '23:57:00', 'U009', 'EP002', 'CT028', 'It was okay'),
+('2025-03-27', '18:01:00', 'U009', 'EP002', 'CT026', 'Great!'),
+('2025-02-12', '17:46:00', 'U009', 'MV001', 'CT011', 'Not bad'),
+('2024-09-03', '02:04:00', 'U009', 'EP002', 'CT022', 'Not bad'),
+('2024-05-20', '19:14:00', 'U009', 'MV001', 'CT031', 'Not bad'),
+('2024-04-16', '00:19:00', 'U009', 'MV001', 'CT017', NULL),
+('2024-09-30', '01:47:00', 'U010', 'MV001', 'CT004', 'Great!'),
+('2025-01-21', '23:10:00', 'U010', 'EP001', 'CT006', 'Could be better'),
+('2024-05-16', '20:41:00', 'U010', 'EP001', 'CT005', 'Loved it'),
+('2024-09-29', '19:45:00', 'U010', 'EP001', 'CT007', 'Amazing episode!'),
+('2025-02-16', '23:06:00', 'U010', 'EP001', 'CT001', 'It was okay'),
+('2025-01-23', '04:18:00', 'U010', 'MV001', 'CT033', 'It was okay'),
+('2024-06-24', '17:18:00', 'U010', 'EP005', 'CT003', 'Amazing episode!'),
+('2024-12-12', '10:16:00', 'U010', 'EP001', 'CT006', 'Amazing episode!'),
+('2024-05-27', '15:47:00', 'U010', 'MV001', 'CT004', 'Amazing episode!'),
+('2025-04-10', '00:34:00', 'U010', 'MV001', 'CT019', 'Loved it'),
+('2024-07-13', '23:50:00', 'U011', 'EP001', 'CT022', 'It was okay'),
+('2025-02-05', '15:49:00', 'U011', 'MV001', 'CT033', 'It was okay'),
+('2024-07-14', '20:12:00', 'U011', 'EP002', 'CT021', 'Could be better'),
+('2025-02-24', '15:20:00', 'U011', 'MV001', 'CT035', NULL),
+('2024-04-12', '07:55:00', 'U011', 'MV001', 'CT031', 'Loved it'),
+('2025-03-05', '20:45:00', 'U011', 'MV001', 'CT009', 'Loved it'),
+('2024-11-23', '07:58:00', 'U011', 'MV001', 'CT020', 'Amazing episode!'),
+('2024-10-04', '08:45:00', 'U011', 'MV001', 'CT036', 'Great!'),
+('2024-12-01', '16:28:00', 'U011', 'EP001', 'CT021', NULL),
+('2025-02-11', '23:22:00', 'U011', 'EP002', 'CT021', 'Great!'),
+('2024-08-30', '10:20:00', 'U012', 'MV001', 'CT035', NULL),
+('2024-07-08', '21:19:00', 'U012', 'EP002', 'CT028', NULL),
+('2024-05-08', '09:11:00', 'U012', 'EP001', 'CT029', 'Great!'),
+('2024-12-16', '17:27:00', 'U012', 'EP001', 'CT025', 'Loved it'),
+('2024-08-16', '16:49:00', 'U012', 'EP002', 'CT024', 'Not bad'),
+('2024-05-10', '14:30:00', 'U012', 'EP002', 'CT030', 'Great!'),
+('2024-11-01', '22:51:00', 'U012', 'MV001', 'CT010', 'Could be better'),
+('2024-07-25', '23:57:00', 'U012', 'EP001', 'CT003', 'It was okay'),
+('2024-06-29', '05:23:00', 'U012', 'MV001', 'CT004', 'Not bad'),
+('2024-09-17', '12:56:00', 'U012', 'EP001', 'CT026', 'Could be better'),
+('2024-06-19', '13:13:00', 'U013', 'MV001', 'CT013', 'Not bad'),
+('2024-09-16', '09:47:00', 'U013', 'MV001', 'CT009', 'Loved it'),
+('2024-09-20', '06:06:00', 'U013', 'MV001', 'CT011', NULL),
+('2024-05-05', '01:58:00', 'U013', 'MV001', 'CT014', NULL),
+('2024-10-03', '21:33:00', 'U013', 'MV001', 'CT012', 'It was okay'),
+('2024-11-15', '05:49:00', 'U013', 'EP001', 'CT003', 'It was okay'),
+('2024-04-10', '08:03:00', 'U013', 'EP001', 'CT021', NULL),
+('2024-05-26', '09:20:00', 'U013', 'MV001', 'CT004', 'Amazing episode!'),
+('2024-04-08', '05:24:00', 'U013', 'MV001', 'CT032', NULL),
+('2024-10-18', '01:33:00', 'U014', 'MV001', 'CT004', 'Loved it'),
+('2024-04-02', '08:27:00', 'U014', 'EP001', 'CT028', 'It was okay'),
+('2025-01-05', '15:22:00', 'U014', 'EP002', 'CT022', NULL),
+('2024-09-05', '20:13:00', 'U014', 'EP002', 'CT027', 'Great!'),
+('2025-01-03', '00:12:00', 'U014', 'MV001', 'CT032', 'Great!'),
+('2024-05-16', '22:58:00', 'U014', 'MV001', 'CT035', 'It was okay'),
+('2025-04-04', '17:37:00', 'U014', 'MV001', 'CT008', 'Great!'),
+('2024-06-18', '06:33:00', 'U014', 'MV001', 'CT009', 'It was okay'),
+('2024-06-26', '15:47:00', 'U014', 'EP002', 'CT027', NULL),
+('2024-08-12', '17:56:00', 'U015', 'EP002', 'CT030', 'Not bad'),
+('2024-12-13', '00:29:00', 'U015', 'EP002', 'CT025', NULL),
+('2024-09-01', '12:48:00', 'U015', 'MV001', 'CT031', 'Not bad'),
+('2024-11-04', '16:34:00', 'U015', 'EP001', 'CT022', 'It was okay'),
+('2024-05-08', '19:57:00', 'U015', 'EP001', 'CT026', NULL),
+('2024-08-13', '08:06:00', 'U015', 'MV001', 'CT031', 'Amazing episode!'),
+('2024-06-30', '17:54:00', 'U015', 'MV001', 'CT036', 'Could be better'),
+('2024-06-19', '10:39:00', 'U015', 'EP005', 'CT003', NULL),
+('2024-12-15', '15:00:00', 'U015', 'EP001', 'CT024', 'It was okay');
+
+
+CREATE OR REPLACE FUNCTION update_subcontent_views()
+RETURNS void AS $$
+BEGIN
+    UPDATE Subcontent
+    SET content_views=0;
+    UPDATE subcontent s
+    SET content_views=wh.view_count
+    FROM(
+        SELECT contentID,subcontentID,COUNT(UserID) AS view_count
+        FROM Content_Watched_by_User
+        GROUP BY contentID,subcontentID
+    )AS wh
+    WHERE s.contentID=wh.contentID AND s.subcontentID=wh.subcontentID;
+END;
+$$ LANGUAGE plpgsql;
+SELECT update_subcontent_views();
+
+
+CREATE OR REPLACE FUNCTION update_gender_based_views()
+RETURNS void AS $$
+BEGIN
+    UPDATE subcontent
+    SET Male_View_Count=0,
+        Female_View_Count=0,
+        Others_View_Count=0;
+    UPDATE subcontent s
+    SET Male_View_Count=gender_views.view_count
+    FROM(
+        SELECT wh.contentID,wh.subcontentID,COUNT(*) AS view_count
+        FROM Content_Watched_by_User wh
+        NATURAL JOIN Users u 
+        WHERE LOWER(u.gender)='m'
+        GROUP BY wh.contentID,wh.subcontentID
+    )AS gender_views
+    WHERE s.contentID=gender_views.contentID
+      AND s.subcontentID=gender_views.subcontentID;
+    UPDATE subcontent s
+    SET Female_View_Count=gender_views.view_count
+    FROM(
+        SELECT wh.contentID,wh.subcontentID,COUNT(*) AS view_count
+        FROM Content_Watched_by_User wh
+        NATURAL JOIN Users u 
+        WHERE LOWER(u.gender)='f'
+        GROUP BY wh.contentID,wh.subcontentID
+    )AS gender_views
+    WHERE s.contentID=gender_views.contentID
+      AND s.subcontentID=gender_views.subcontentID;
+    UPDATE subcontent s
+    SET Others_View_Count=gender_views.view_count
+    FROM(
+        SELECT wh.contentID,wh.subcontentID,COUNT(*) AS view_count
+        FROM Content_Watched_by_User wh
+        NATURAL JOIN Users u 
+        WHERE LOWER(u.gender) NOT IN ('m','f')
+        GROUP BY wh.contentID,wh.subcontentID
+    )AS gender_views
+    WHERE s.contentID=gender_views.contentID
+      AND s.subcontentID=gender_views.subcontentID;
+END;
+$$ LANGUAGE plpgsql;
+SELECT update_gender_based_views();
+
+
+
+CREATE OR REPLACE FUNCTION update_content_streamed_region()
+RETURNS void AS $$
+BEGIN
+    DELETE FROM Content_Streamed_Region;
+    INSERT INTO Content_Streamed_Region(Streamed_Region,Count_View,ContentID,SubContentID)
+    SELECT 
+        u.Country AS Streamed_Region,
+        COUNT(*) AS Count_View,
+        c.ContentID,
+        c.SubContentID
+    FROM 
+        Content_Watched_by_User c
+    NATURAL JOIN Users u
+    GROUP BY u.Country,c.ContentID,c.SubContentID;
+END;
+$$ LANGUAGE plpgsql;
+SELECT update_content_streamed_region();
+
+
+
+CREATE OR REPLACE FUNCTION update_Ad_streamed_region()
+RETURNS void AS $$
+BEGIN
+    DELETE FROM Ad_Streamed_Region;
+    INSERT INTO Ad_Streamed_Region(Streamed_Region,Count_View,AdID)
+    SELECT 
+        u.Country AS Streamed_Region,
+        COUNT(*) AS Count_View,
+        c.AdID
+    FROM Ad_Watched_by_User c NATURAL JOIN Users u 
+    GROUP BY u.Country,c.AdID;
+END;
+$$ LANGUAGE plpgsql;
+SELECT update_Ad_streamed_region();
+
+
+
+CREATE OR REPLACE FUNCTION update_gender_based_Ad_views()
+RETURNS void AS $$
+BEGIN
+    UPDATE advertisement
+    SET Male_View_Count=0,
+        Female_View_Count=0,
+        Others_View_Count=0;
+    UPDATE Advertisement s
+    SET Male_View_Count=gender_views.view_count
+    FROM(
+        SELECT wh.AdID,COUNT(*) AS view_count
+        FROM Ad_Watched_by_User wh NATURAL JOIN Users u
+        WHERE LOWER(u.gender) = 'm' GROUP BY wh.AdID
+    )AS gender_views
+    WHERE s.AdID =gender_views.AdID;
+    UPDATE Advertisement s
+    SET Female_View_Count=gender_views.view_count
+    FROM(
+        SELECT wh.AdID,COUNT(*) AS view_count
+        FROM Ad_Watched_by_User wh
+        NATURAL JOIN Users u WHERE LOWER(u.gender) = 'f'
+        GROUP BY wh.AdID
+    )AS gender_views
+    WHERE s.AdID= gender_views.AdID;
+    UPDATE Advertisement s
+    SET Others_View_Count =gender_views.view_count
+    FROM(
+        SELECT wh.AdID,COUNT(*) AS view_count
+        FROM Ad_Watched_by_User wh
+        NATURAL JOIN Users u WHERE LOWER(u.gender) = 'o'
+        GROUP BY wh.AdID
+    ) AS gender_views
+    WHERE s.AdID=gender_views.AdID;
+END;
+$$ LANGUAGE plpgsql;
+SELECT update_gender_based_Ad_views();
+
+
+
+CREATE OR REPLACE FUNCTION update_Ad_views()
+RETURNS void AS $$
+BEGIN
+    UPDATE Advertisement
+    SET Ad_Views=0;
+    UPDATE Advertisement s
+    SET Ad_Views=wh.view_count
+    FROM(
+        SELECT AdID, COUNT(UserID) AS view_count
+        FROM Ad_Watched_by_User GROUP BY AdID
+    )AS wh
+    WHERE s.AdID=wh.AdID;
+END;
+$$ LANGUAGE plpgsql;
+SELECT update_Ad_views();
+
+
+
+CREATE OR REPLACE FUNCTION update_age_group_views()
+RETURNS void AS $$
+BEGIN
+    UPDATE SubContent
+    SET Age_Under_13_Count=0,
+        Age_13to18_Count=0,
+        Age_19to40_Count=0,
+        Age_41to60_Count=0,
+        Age_above60_Count=0;
+    UPDATE subcontent s
+    SET Age_Under_13_Count=agv.view_count
+    FROM(
+        SELECT wh.contentID,wh.subcontentID,COUNT(*) AS view_count
+        FROM Content_Watched_by_User wh
+        NATURAL JOIN Users u WHERE u.age<13
+        GROUP BY wh.contentID,wh.subcontentID
+    ) AS agv
+    WHERE s.contentID=agv.contentID AND s.subcontentID=agv.subcontentID;
+    UPDATE subcontent s
+    SET Age_13to18_Count=agv.view_count
+    FROM(
+        SELECT wh.contentID,wh.subcontentID,COUNT(*) AS view_count
+        FROM Content_Watched_by_User wh
+        NATURAL JOIN Users u WHERE u.age>=13 AND u.age<=18
+        GROUP BY wh.contentID, wh.subcontentID
+    )AS agv
+    WHERE s.contentID=agv.contentID AND s.subcontentID=agv.subcontentID;
+    UPDATE subcontent s
+    SET Age_19to40_Count=agv.view_count
+    FROM(
+        SELECT wh.contentID, wh.subcontentID, COUNT(*) AS view_count
+        FROM Content_Watched_by_User wh
+        NATURAL JOIN Users u WHERE u.age>=19 AND u.age<=40
+        GROUP BY wh.contentID,wh.subcontentID
+    )AS agv
+    WHERE s.contentID=agv.contentID AND s.subcontentID= agv.subcontentID;
+    UPDATE SubContent s
+    SET Age_41to60_Count=agv.view_count
+    FROM(
+        SELECT wh.contentID, wh.subcontentID,COUNT(*) AS view_count
+        FROM Content_Watched_by_User wh
+        NATURAL JOIN Users u 
+        WHERE u.age>=41 AND u.age<=60
+        GROUP BY wh.contentID,wh.subcontentID
+    ) AS agv
+    WHERE s.contentID=agv.contentID AND s.subcontentID=agv.subcontentID;
+    UPDATE SubContent s
+    SET Age_above60_Count=agv.view_count
+    FROM(
+        SELECT wh.contentID,wh.subcontentID, COUNT(*) AS view_count
+        FROM Content_Watched_by_User wh
+        NATURAL JOIN Users u WHERE u.age > 60
+        GROUP BY wh.contentID, wh.subcontentID
+    ) AS agv
+    WHERE s.contentID=agv.contentID AND s.subcontentID=agv.subcontentID;
+END;
+$$ LANGUAGE plpgsql;
+SELECT update_age_group_views();
+
+
+
+CREATE OR REPLACE FUNCTION update_age_group_Ad_views()
+RETURNS void AS $$
+BEGIN
+    UPDATE Advertisement
+    SET Age_Under_13_Count=0,
+        Age_13to18_Count=0,
+        Age_19to40_Count=0,
+        Age_41to60_Count=0,
+        Age_above60_Count=0;
+    UPDATE Advertisement s
+    SET Age_Under_13_Count=agv.view_count
+    FROM(
+        SELECT wh.AdID,COUNT(*) AS view_count
+        FROM Ad_Watched_by_User wh
+        NATURAL JOIN Users u WHERE u.age<13
+        GROUP BY wh.AdID
+    )AS agv
+    WHERE s.AdID=agv.AdID;
+    UPDATE Advertisement s
+    SET Age_13to18_Count=agv.view_count
+    FROM(
+        SELECT wh.AdID,COUNT(*) AS view_count
+        FROM Ad_Watched_by_User wh
+        NATURAL JOIN Users u WHERE u.age>=13 AND u.age<=18
+        GROUP BY wh.AdID
+    ) AS agv
+    WHERE s.AdID=agv.AdID;
+    UPDATE Advertisement s
+    SET Age_19to40_Count =agv.view_count
+    FROM (
+        SELECT wh.AdID,COUNT(*) AS view_count
+        FROM Ad_Watched_by_User wh
+        NATURAL JOIN Users u WHERE u.age>=19 AND u.age<= 40
+        GROUP BY wh.AdID
+    ) AS agv
+    WHERE s.AdID=agv.AdID;
+    UPDATE Advertisement s
+    SET Age_41to60_Count=agv.view_count
+    FROM(
+        SELECT wh.AdID,COUNT(*) AS view_count
+        FROM Ad_Watched_by_User wh
+        NATURAL JOIN Users u WHERE u.age>=41 AND u.age<=60
+        GROUP BY wh.AdID
+    ) AS agv
+    WHERE s.AdID=agv.AdID;
+    UPDATE Advertisement s
+    SET Age_above60_Count = agv.view_count
+    FROM (
+        SELECT wh.AdID,COUNT(*) AS view_count
+        FROM Ad_Watched_by_User wh
+        NATURAL JOIN Users u WHERE u.age>60 GROUP BY wh.AdID
+    ) AS agv
+    WHERE s.AdID=agv.AdID;
+END;
+$$ LANGUAGE plpgsql;
+SELECT update_age_group_Ad_views();
+
+
+CREATE OR REPLACE FUNCTION update_Skip_Count()
+RETURNS void AS $$
+BEGIN
+    UPDATE Advertisement
+    SET Ad_skips_Count=0;
+    UPDATE Advertisement s
+    SET Ad_skips_Count =wh.view_count
+    FROM(
+        SELECT AdID,COUNT(UserID) AS view_count
+        FROM Ad_Watched_by_User
+	WHERE Lower(Skips_YN)='y'
+        GROUP BY AdID
+    ) AS wh
+    WHERE s.AdID=wh.AdID;
+END;
+$$ LANGUAGE plpgsql;
+SELECT update_Skip_Count();
+
